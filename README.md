@@ -1,4 +1,4 @@
-# Task-Management-Syste-
+# Task-Management-System-
 A full-stack Task Management System built with Node.js, TypeScript, Prisma, SQLite, and Next.js.
 Tech Stack
 
